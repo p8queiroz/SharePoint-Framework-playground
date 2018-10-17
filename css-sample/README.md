@@ -1,6 +1,7 @@
 ## spfx-css-sample
 
-This is where you include your WebPart documentation.
+This SPFX web part sample show how to work with 2 different layouts (or even more) according to the user's choice.
+
 
 ### Building the code
 
