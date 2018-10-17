@@ -1,6 +1,6 @@
 ## spfx-css-sample
 
-This SPFX web part sample shows how to work with 2 different layouts (or even more) according to the user's choice.
+This SPFx web part sample shows how to work with 2 different layouts (or even more) according to the user's choice.
 
 
 ### Building the code
